@@ -1,0 +1,2 @@
+CITY = "Mumbai"
+LANG = "TELGU"
