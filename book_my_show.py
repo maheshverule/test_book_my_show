@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 
-city = "Kochi"
+city = "Mumbai"
 filter_lang = "TELGU"
 options = Options()
 options.add_experimental_option("detach",True)
