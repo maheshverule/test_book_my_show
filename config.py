@@ -1,2 +1,7 @@
 CITY = "Mumbai"
 LANG = "TELGU"
+URL = "https://in.bookmyshow.com/"
+SEARCH_CITY_TEXTBOX = "//input[@placeholder = 'Search for your city']"
+HOME_SCREEN_DISPLAY_SELCTED_CITY = "//span[@class ='bwc__sc-1nbn7v6-10 cntvL ellipsis' and text()]"
+HOME_SCREEN_SEARCH_BAR = "4"
+LANGUAGE_FILTER = "//div[@class ='bwc__sc-m1rlyj-3 bwc__sc-3t17w7-25 bzIewT']"
